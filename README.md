@@ -7,13 +7,13 @@
   SQLite (or any other preferred database)
   Authentication: Flask-JWT-Extended
 3. Features : 
-  User Signup: Users register with Username, password.
-  User Login: Users log in with Username and password.
-  Create_Employee : Users add Employee via email, assigning roles and department to them .
-  Operations : Focusing on full CRUD operations on employee.
-  Filtering: Allow filtering of employees by department and role.
-  Pagination: Limit results per page to 10 employees with pagination support 
-  Authentication: Use token-based authentication (JWT) to secure the endpoints. Only authenticated users should access these endpoints.
+   - User Signup: Users register with Username, password.
+   - User Login: Users log in with Username and password.
+   - Create_Employee : Users add Employee via email, assigning roles and department to them .
+   - Operations : Focusing on full CRUD operations on employee.
+   - Filtering: Allow filtering of employees by department and role.
+   -  Pagination: Limit results per page to 10 employees with pagination support 
+   - Authentication: Use token-based authentication (JWT) to secure the endpoints. Only authenticated users should access these endpoints.
 
 4. Installation and Setup
 
