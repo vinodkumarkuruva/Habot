@@ -1,0 +1,6 @@
+Flask
+Flask-Login
+Flask-SQlalchemy
+Flask-Migrate
+flask_jwt_extended
+pytest
