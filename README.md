@@ -1,11 +1,11 @@
 1. Introduction : 
  The project aims to Build a basic REST API to manage employees in a company, focusing on CRUD operations, RESTful principles, and authentication.
 2. Technologies : 
-  Flask
-  SQLAlchemy
-  Migrate
-  SQLite (or any other preferred database)
-  Authentication: Flask-JWT-Extended
+   - Flask
+   - SQLAlchemy
+   - Migrate
+   - SQLite (or any other preferred database)
+   - Authentication: Flask-JWT-Extended
 3. Features : 
    - User Signup: Users register with Username, password.
    - User Login: Users log in with Username and password.
